@@ -1,0 +1,12 @@
+<div id="fondo" class="min-h-screen flex justify-center items-center bg-cover bg-center" style="background-image: url('assets/background.jpg')">
+    <div class="flex flex-col items-center">
+      <button id="{{buton.id}}" *ngFor="let buton of botones" 
+        (mouseover) = "OverMouse(buton)"
+        (mouseout) = "OutMouse(buton)"
+        (click) = "clickurl(buton)"
+        class="bg-1 text-white font-bold py-2 px-4 rounded mb-4">
+            {{ buton.name }}
+        </button>
+    </div>
+  </div>
+  <audio id="audio" src="/assets/click.mp3"></audio>

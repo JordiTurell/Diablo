@@ -1,0 +1,290 @@
+{
+    "componentChunkName": "component---src-templates-tierlist-js",
+    "path": "/tierlist/",
+    "result": {
+      "pageContext": {
+        "tierListData": [
+          {
+            "build": "Minion Summoner Golem",
+            "class": "Nigromanter",
+            "Endgame": "S",
+            "link2": "https://d4builds.gg/builds/4c364427-65c5-4749-ba9b-c86260afa515/?var=1",
+            "link": "4c364427-65c5-4749-ba9b-c86260afa515/?var=1"
+          },
+          {
+            "build": "Minion Summoner Mage",
+            "class": "Nigromanter",
+            "Endgame": "S",
+            "link2": "https://d4builds.gg/builds/4da16a95-493f-47b3-b67f-56c6c34ee7c5/?var=0",
+            "link": "4da16a95-493f-47b3-b67f-56c6c34ee7c5/?var=0"
+          },
+          {
+            "build": "Bash",
+            "class": "Barbaro",
+            "Endgame": "A",
+            "link2": "https://d4builds.gg/builds/23ae9cbb-933e-4a88-999c-2241654cc8e2/?var=0",
+            "link": "23ae9cbb-933e-4a88-999c-2241654cc8e2/?var=0"
+          },
+          {
+            "build": "Dust Devil",
+            "class": "Barbaro",
+            "Endgame": "A",
+            "link2": "https://d4builds.gg/builds/07459fe3-f549-4f8e-b241-e440ff1401ea/?var=0",
+            "link": "07459fe3-f549-4f8e-b241-e440ff1401ea/?var=0"
+          },
+          {
+            "build": "Thorns",
+            "class": "Barbaro",
+            "Endgame": "A",
+            "link2": "https://d4builds.gg/builds/0704c20f-68a7-49ed-97da-fc51454a9906/?var=0",
+            "link": "0704c20f-68a7-49ed-97da-fc51454a9906/?var=0"
+          },
+          {
+            "build": "Wind Shear",
+            "class": "Druida",
+            "Endgame": "A",
+            "link2": "https://d4builds.gg/builds/b0330cfb-0f79-4d6d-a362-129492fad6a9/?var=0",
+            "link": "b0330cfb-0f79-4d6d-a362-129492fad6a9/?var=0"
+          },
+          {
+            "build": "Werenado",
+            "class": "Druida",
+            "Endgame": "A",
+            "link2": "https://d4builds.gg/builds/f8298a54-dc67-41ab-8232-ddfd32bd80fa/?var=0",
+            "link": "f8298a54-dc67-41ab-8232-ddfd32bd80fa/?var=0"
+          },
+          {
+            "build": "Bone Spirit",
+            "class": "Nigromanter",
+            "Endgame": "A",
+            "link2": "https://d4builds.gg/builds/01953e1c-6ba5-4f3a-8ebe-73273beda61b/?var=0",
+            "link": "01953e1c-6ba5-4f3a-8ebe-73273beda61b/?var=0"
+          },
+          {
+            "build": "Shadowblight",
+            "class": "Nigromanter",
+            "Endgame": "A",
+            "link2": "https://d4builds.gg/builds/133f4796-ec31-4df5-89b3-66e5f7bb675b/?var=0",
+            "link": "133f4796-ec31-4df5-89b3-66e5f7bb675b/?var=0"
+          },
+          {
+            "build": "Rapid Fire",
+            "class": "Cazador",
+            "Endgame": "A",
+            "link2": "https://d4builds.gg/builds/8fa4f236-1e84-423a-bd9f-047921f035e9/",
+            "link": "8fa4f236-1e84-423a-bd9f-047921f035e9/"
+          },
+          {
+            "build": "Hurricane",
+            "class": "Druida",
+            "Endgame": "A",
+            "link2": "https://d4builds.gg/builds/90ef1b09-f13b-49ad-818b-2f9a0b78638f/?var=0",
+            "link": "90ef1b09-f13b-49ad-818b-2f9a0b78638f/?var=0"
+          },
+          {
+            "build": "Frozen Orb",
+            "class": "Mago",
+            "Endgame": "A",
+            "link2": "https://d4builds.gg/builds/5efef740-3101-4344-aeab-2bbfec6f6d35/?var=0",
+            "link": "5efef740-3101-4344-aeab-2bbfec6f6d35/?var=0"
+          },
+          {
+            "build": "Ball Lightning",
+            "class": "Mago",
+            "Endgame": "A",
+            "link2": "https://d4builds.gg/builds/e8627a46-f987-4893-9175-19bf3e0ee563/?var=0",
+            "link": "e8627a46-f987-4893-9175-19bf3e0ee563/?var=0"
+          },
+          {
+            "build": "Blizzard",
+            "class": "Mago",
+            "Endgame": "A",
+            "link2": "https://d4builds.gg/builds/3e95eedf-803b-4ccf-b103-fda33fca9005/",
+            "link": "3e95eedf-803b-4ccf-b103-fda33fca9005/"
+          },
+          {
+            "build": "Fire Bolt",
+            "class": "Mago",
+            "Endgame": "B",
+            "link2": "https://d4builds.gg/builds/e5b93aac-9408-4e78-af88-68024651c67d/?var=0",
+            "link": "e5b93aac-9408-4e78-af88-68024651c67d/?var=0"
+          },
+          {
+            "build": "Meteor",
+            "class": "Mago",
+            "Endgame": "B",
+            "link2": "https://d4builds.gg/builds/351e1d9f-970d-4442-83aa-815521f50592/?var=0",
+            "link": "351e1d9f-970d-4442-83aa-815521f50592/?var=0"
+          },
+          {
+            "build": "Nova Ice Shard",
+            "class": "Mago",
+            "Endgame": "B",
+            "link2": "https://d4builds.gg/builds/d0b467a3-f951-4cc3-a209-d0b118294eb1/?var=0",
+            "link": "d0b467a3-f951-4cc3-a209-d0b118294eb1/?var=0"
+          },
+          {
+            "build": "HoTA",
+            "class": "Barbaro",
+            "Endgame": "B",
+            "link2": "https://d4builds.gg/builds/066b2b58-932e-4abf-a3a6-92e0efae252e/",
+            "link": "066b2b58-932e-4abf-a3a6-92e0efae252e/"
+          },
+          {
+            "build": "Death Blow",
+            "class": "Barbaro",
+            "Endgame": "B",
+            "link2": "https://d4builds.gg/builds/a7370ff9-9fe3-44cc-9e2d-0406f3f66d3c/?var=0",
+            "link": "a7370ff9-9fe3-44cc-9e2d-0406f3f66d3c/?var=0"
+          },
+          {
+            "build": "Charge",
+            "class": "Barbaro",
+            "Endgame": "B",
+            "link2": "https://d4builds.gg/builds/37d2bc28-fbc9-41f6-b41a-5f7397e3e0a5/?var=0",
+            "link": "37d2bc28-fbc9-41f6-b41a-5f7397e3e0a5/?var=0"
+          },
+          {
+            "build": "Leapquake Kick",
+            "class": "Barbaro",
+            "Endgame": "B",
+            "link2": "https://d4builds.gg/builds/0a3847ed-b169-4a38-a256-f2cb1362311e/?var=0",
+            "link": "0a3847ed-b169-4a38-a256-f2cb1362311e/?var=0"
+          },
+          {
+            "build": "Barrage",
+            "class": "Cazador",
+            "Endgame": "B",
+            "link2": "https://d4builds.gg/builds/92b448fe-c77b-497a-86a7-3051df18d539/?var=0"
+          },
+          {
+            "build": "Rapid Fire/ Penshot",
+            "class": "Cazador",
+            "Endgame": "B"
+          },
+          {
+            "build": "Bone Spear",
+            "class": "Nigromanter",
+            "Endgame": "B",
+            "link2": "https://d4builds.gg/builds/c59cbd83-b9af-4fb9-9429-6486cc64e088/?var=0",
+            "link": "c59cbd83-b9af-4fb9-9429-6486cc64e088/?var=0"
+          },
+          {
+            "build": "Boulder",
+            "class": "Druida",
+            "Endgame": "B"
+          },
+          {
+            "build": "Lightning Storm",
+            "class": "Druida",
+            "Endgame": "B",
+            "link2": "https://d4builds.gg/builds/0a2a234c-c018-4851-8626-9518fd7dfc6f/",
+            "link": "0a2a234c-c018-4851-8626-9518fd7dfc6f/"
+          },
+          {
+            "build": "Fireball",
+            "class": "Mago",
+            "Endgame": "C",
+            "link2": "https://d4builds.gg/builds/bce207dd-ed8c-4c08-80cd-50a36413796c/?var=0",
+            "link": "bce207dd-ed8c-4c08-80cd-50a36413796c/?var=0"
+          },
+          {
+            "build": "Arc Lash",
+            "class": "Mago",
+            "Endgame": "C",
+            "link2": "https://d4builds.gg/builds/15dbc1af-b8e6-4860-863c-53305178d5a3/",
+            "link": "15dbc1af-b8e6-4860-863c-53305178d5a3/"
+          },
+          {
+            "build": "Incinerate",
+            "class": "Mago",
+            "Endgame": "C"
+          },
+          {
+            "build": "Pulverize",
+            "class": "Druida",
+            "Endgame": "C",
+            "link2": "https://d4builds.gg/builds/a3b50df9-2891-4bcf-9ffe-e4606038949f/?var=0",
+            "link": "a3b50df9-2891-4bcf-9ffe-e4606038949f/?var=0"
+          },
+          {
+            "build": "Landslide",
+            "class": "Druida",
+            "Endgame": "C",
+            "link2": "https://d4builds.gg/builds/9e4dca97-8ac8-420e-8bf3-eec9c03e79cc/?var=0",
+            "link": "9e4dca97-8ac8-420e-8bf3-eec9c03e79cc/?var=0"
+          },
+          {
+            "build": "Rend",
+            "class": "Barbaro",
+            "Endgame": "C",
+            "link2": "https://d4builds.gg/builds/38ea0b7a-797f-40f9-9d8f-446e7e233adc/?var=0",
+            "link": "38ea0b7a-797f-40f9-9d8f-446e7e233adc/?var=0"
+          },
+          {
+            "build": "Upheaval",
+            "class": "Barbaro",
+            "Endgame": "C",
+            "link2": "https://d4builds.gg/builds/e7fc8b98-10a3-4d51-b0ce-1965405d8093/?var=0",
+            "link": "e7fc8b98-10a3-4d51-b0ce-1965405d8093/?var=0"
+          },
+          {
+            "build": "Grenade",
+            "class": "Cazador",
+            "Endgame": "C"
+          },
+          {
+            "build": "Twisting Blades",
+            "class": "Cazador",
+            "Endgame": "C",
+            "link2": "https://d4builds.gg/builds/4cf59328-8f03-4ba4-994b-e61dfba69ed0/?var=0",
+            "link": "4cf59328-8f03-4ba4-994b-e61dfba69ed0/?var=0"
+          },
+          {
+            "build": "Wolf Companion",
+            "class": "Druida",
+            "Endgame": "C"
+          },
+          {
+            "build": "Minion",
+            "class": "Nigromanter",
+            "Leveling": "S",
+            "link2": "https://d4builds.gg/builds/47a1133c-ab65-494b-9ad1-587888d0c489/?var=0",
+            "link": "47a1133c-ab65-494b-9ad1-587888d0c489/?var=0"
+          },
+          {
+            "build": "Firewall",
+            "class": "Mago",
+            "Leveling": "S",
+            "link2": "https://d4builds.gg/builds/c3b61621-c2c5-4997-bfee-cd3e5a6b86ad/?var=0",
+            "link": "c3b61621-c2c5-4997-bfee-cd3e5a6b86ad/?var=0"
+          },
+          {
+            "build": "Barrage",
+            "class": "Cazador",
+            "Leveling": "A",
+            "link2": "https://d4builds.gg/builds/165af7fd-9a9f-439f-b8a0-a9cdf0eb8f9e/?var=0",
+            "link": "165af7fd-9a9f-439f-b8a0-a9cdf0eb8f9e/?var=0"
+          },
+          {
+            "build": "Dust Devil",
+            "class": "Barbaro",
+            "Leveling": "B",
+            "link2": "https://d4builds.gg/builds/154dbea7-b8b6-4741-af3f-6e5484e77381/?var=0",
+            "link": "154dbea7-b8b6-4741-af3f-6e5484e77381/?var=0"
+          },
+          {
+            "build": "Pulverize",
+            "class": "Druida",
+            "Leveling": "B",
+            "link2": "https://d4builds.gg/builds/65f88c3e-8b82-4e6e-b8b6-d3a139e15cf3/?var=0",
+            "link": "65f88c3e-8b82-4e6e-b8b6-d3a139e15cf3/?var=0"
+          }
+        ]
+      }
+    },
+    "staticQueryHashes": [
+      "3649515864",
+      "63159454"
+    ]
+  }
