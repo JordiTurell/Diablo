@@ -2,15 +2,15 @@ const express = require('express');
 const router = express.Router();
 const userService = require('../services/usuariosService');
 
-//Crear Usuario Administrador
-router.get('/admin', async(req, res) => {
-    try{
-        const users = await userService.createAdmin('caperucito', 'sawamura1984', 'jorditn84@hotmail.com')
-        res.status(200).json(users)
-    }catch(error){
-        res.status(400).json({message: error.message})
-    }
-})
+// //Crear Usuario Administrador
+// router.get('/admin', async(req, res) => {
+//     try{
+//         const users = await userService.createAdmin('********',, '********', '********',)
+//         res.status(200).json(users)
+//     }catch(error){
+//         res.status(400).json({message: error.message})
+//     }
+// })
 
 router.post('/login', async(req, res) => {
     try{
