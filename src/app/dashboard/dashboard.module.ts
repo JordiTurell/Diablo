@@ -5,13 +5,19 @@ import { DashHomeComponent } from './pages/home/home.component';
 import { LayoutComponent } from './pages/layout/layout.component';
 import { DashLoginComponent } from './pages/login/login.component';
 import { DashboardRoutingModule } from './dashboard-routing.module';
+import { ModalErrorComponent } from './components/modals/modal-error/modal-error.component';
+import { ModalSuccessComponent } from './components/modals/modal-success/modal-success.component';
+import { ButtonComponent } from './components/generic-components/forms/button/button.component';
 
 @NgModule({
   declarations: [
     ToolbarComponent,
     DashHomeComponent,
     LayoutComponent,
-    DashLoginComponent
+    DashLoginComponent,
+    ModalErrorComponent,
+    ModalSuccessComponent,
+    ButtonComponent
   ],
   imports: [
     CommonModule,

@@ -1,1 +1,41 @@
-<p>login works!</p>
+<div class="flex items-center justify-center h-screen" style="background-image: url('assets/background.jpg')">
+    <div class="bg-neutral-800 p-8 rounded-lg shadow-lg w-full max-w-sm">
+      <h2 class="text-2xl font-bold mb-6 text-center">Iniciar Sesión</h2>
+  
+      <!-- Conecta el formulario al FormGroup -->
+      <form formGroup="loginForm">
+        <!-- Campo Usuario -->
+        <div class="mb-4">
+          <label for="username" class="block text-sm font-medium mb-2">Usuario</label>
+          <input
+            id="username"
+            formControlName="username"
+            type="text"
+            class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+            placeholder="Ingresa tu usuario"
+          />
+        </div>
+  
+        <!-- Campo Contraseña -->
+        <div class="mb-4">
+          <label for="password" class="block text-sm font-medium mb-2">Contraseña</label>
+          <input
+            id="password"
+            formControlName="password"
+            type="password"
+            class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+            placeholder="Ingresa tu contraseña"
+          />
+        </div>
+  
+        <!-- Botón para enviar -->
+      <app-button [text]="'Acceder'" [loading]="isLoading" (click)="onSubmit()"></app-button>
+      </form>
+    </div>
+  </div>
+
+  <app-modal-error
+  [isVisible]="error"
+  [msg]="errorMessage"
+  (close)="closeModal()"
+  ></app-modal-error>

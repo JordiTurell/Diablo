@@ -1,0 +1,32 @@
+<!-- Modal Overlay -->
+<div
+  class="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center"
+  *ngIf="isVisible"
+>
+  <!-- Modal Content -->
+  <div class="bg-white rounded-lg shadow-lg max-w-lg w-full p-6 relative">
+    <!-- Modal Header -->
+    <div class="flex justify-between items-center mb-4">
+      <h2 class="text-xl font-bold text-black">Error</h2>
+      <button
+        class="text-gray-500 hover:text-gray-700"
+        (click)="onClose()"
+      >
+        ✖
+      </button>
+    </div>
+    <!-- Modal Body -->
+    <div class="text-gray-700">
+      {{ msg }}
+    </div>
+    <!-- Modal Footer -->
+    <div class="flex justify-end mt-6">
+      <button
+        class="bg-gray-300 text-gray-800 px-4 py-2 rounded hover:bg-gray-400 mr-2"
+        (click)="onClose()"
+      >
+        Cancelar
+      </button>
+    </div>
+  </div>
+</div>
